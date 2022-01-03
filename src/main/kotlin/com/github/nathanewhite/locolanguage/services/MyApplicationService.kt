@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.nathanewhite.locolanguage.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.nathanewhite.locolanguage.MyBundle
 
 class MyApplicationService {
 
